@@ -31,13 +31,6 @@ sum of the first 1-50 integers using loops
 3.   Retrieves and displays the corresponding marks.
 4.   If the student’s name is not found, display an appropriate message.
 
-#assignment 8
-1.Integrate both projects and functionalities into a single Django project, using the knowledge and techniques acquired in the course.
-2.Make any necessary modifications to ensure a seamless and fully functional project.
-3.Test your project thoroughly to ensure it works as expected before submission.
-#assignment 9
-#assignment 10
-#assignment 11
 
    
 #task 10
@@ -48,5 +41,22 @@ sum of the first 1-50 integers using loops
 
 #task 11
 Tkinter calculator
+
+#assignment 8
+1.Integrate both projects and functionalities into a single Django project, using the knowledge and techniques acquired in the course.
+2.Make any necessary modifications to ensure a seamless and fully functional project.
+3.Test your project thoroughly to ensure it works as expected before submission.
+
+#assignment 9
+
+#assignment 10
+
+#assignment 11
+
+#assignment 12
+
+#assignment 13
+
+#assignment 15
 
 
